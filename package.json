@@ -3,8 +3,9 @@
   "version": "0.0.1",
   "private": false,
   "dependencies": {
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.18.3",
     "express": "^4.14.1",
+    "helmet": "^3.15.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
